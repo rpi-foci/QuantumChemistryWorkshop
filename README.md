@@ -14,3 +14,4 @@ Open HelloBell.ipynb file
 
 Files 1_*.ipynb
 
+Osama will take over here.
