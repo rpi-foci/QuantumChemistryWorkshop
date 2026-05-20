@@ -94,6 +94,15 @@ If you don't see the folder, click the *Files* tab to view files.
 Double-click ``Runtime.ipynb'' lab on the left, and follow the lab to install Qiskit,
 and supporting modules needed for the afternoon.
 
+## Simpler Alternative!
+
+qBraid comes with many pre-created environments.  And it is possible to create custom environments with the right license.
+
+On the Jupyter Lab Launcher screen:
+
+   * Click "Add Environment"
+   * Select Qiskit 2.4.1
+   * Install Environment
 
 ## Configure Qiskit Runtime
 
