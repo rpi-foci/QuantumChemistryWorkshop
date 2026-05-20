@@ -45,9 +45,9 @@ to access RPI's Quantum System One.
 As a part of RPI's Quantum Computer Club's Quantum Computing Hackathon, qBraid worked with RPI to integrate with
 our Single Sign-On.
 
-    * From [https://https://qbraid.com](https://https://qbraid.com) click the "Log in" button un the upper right.
-    * Click the "Sign in with your institution" dropdown menu, and select RPI
-    * You should see the familiarn Single Sign-On Page.  Sign On.
+   * From [https://https://qbraid.com](https://https://qbraid.com) click the "Log in" button un the upper right.
+   * Click the "Sign in with your institution" dropdown menu, and select RPI
+   * You should see the familiarn Single Sign-On Page.  Sign On.
 
 You will now be on qBraid's dashboard.   You do not need to purchase any credits, or use the starter credits.  We
 will be using RPI's Quantum System One.
@@ -73,9 +73,9 @@ Once qBraid is ready:
 
 Under **Launch qBraid Lab** 
 
-      * Select *Free 2vCPU 4GB Ram*.
-      * Click "Launch New Instance".
-      * Lauch the lab when ready
+   * Select *Free 2vCPU 4GB Ram*.
+   * Click "Launch New Instance".
+   * Lauch the lab when ready
 
 
 ## Open Class Lab Folder
