@@ -52,6 +52,13 @@ our Single Sign-On.
 You will now be on qBraid's dashboard.   You do not need to purchase any credits, or use the starter credits.  We
 will be using RPI's Quantum System One.
 
+**But you do need to create an API key for qBraid**
+
+   * Select "API Keys" on the left
+   * Click " + Create API Key
+
+This is separate from the IBM Quantum Cloud API Token you will need to create later.
+
 ## Launch Jupyter Lab on qBraid
 
 Under **Launch qBraid Lab** 
