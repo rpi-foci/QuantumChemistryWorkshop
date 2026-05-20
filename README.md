@@ -8,7 +8,7 @@ We will:
 
    * Log on to RPI's IBM Quantum Cloud Account using Single Sign-On, and request access to Quantum System One
    * Log on to gBraid using Single Sign-On
-   * Lauch Jupyter Lab on qBraid
+   * Launch Jupyter Lab on qBraid
    * Load the labs using Github
    * Install Qiskit (and some support modules)
    * Configure the Qiskit Runtime
@@ -52,31 +52,34 @@ our Single Sign-On.
 You will now be on qBraid's dashboard.   You do not need to purchase any credits, or use the starter credits.  We
 will be using RPI's Quantum System One.
 
-## Launch qBraid
-
-Click the:
-
-<!-- [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/rpi-foci/https://github.com/rpi-foci/QuantumChemistryWorkshop.git) -->
-
-[![Env Badge](https://img.shields.io/endpoint?url=https://api.qbraid.com/api/environments/valid?envSlug=rpi_qu_8b7d9z&label=Launch+on+qBraid&labelColor=lightgrey&logo=rocket&logoSize=auto&style=for-the-badge)](http://account.qbraid.com?gitHubUrl=https://github.com/rpi-foci/QuantumChemistryWorkshop&envId=rpi_qu_8b7d9z)
-
-button.
-
-This will launch qBraid.  **Note: launch in a separate tab or window to keep these instructions available.**
-
-qBraid will take a few moments setting up your workspace, and cloning this Git repository.
-
-
-## Launch Jupyter Lab and Install the Course's kernel
-
-Once qBraid is ready:
+## Launch Jupyter Lab on qBraid
 
 Under **Launch qBraid Lab** 
 
    * Select *Free 2vCPU 4GB Ram*.
    * Click "Launch New Instance".
-   * Lauch the lab when ready
+   * Click "Open Lab" when ready
 
+## Load the labs using Github
+
+You should now be on a Jupyter Lab home page.  This is a hosted
+Jupyter Lab, running on qBraid servers.  As such "local" means on
+qBrad.
+
+
+<!-- [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/rpi-foci/QuantumChemistryWorkshop.git) -->
+
+[![Env Badge](https://img.shields.io/endpoint?url=https://api.qbraid.com/api/environments/valid?envSlug=rpi_qu_8b7d9z&label=Launch+on+qBraid&labelColor=lightgrey&logo=rocket&logoSize=auto&style=for-the-badge)](http://account.qbraid.com?gitHubUrl=https://github.com/rpi-foci/QuantumChemistyWorkshop.git&envId=rpi_qu_8b7d9z)
+
+On the left are symbols for a file, and for git hub. On the left:
+
+   * Click the Github icon (below the file icon)
+   * Open "Changes" (if not open)
+   * Click "Clone a Repository"
+   * Enter the Github URL: [https://github.com/rpi-foci/QuantumChemistryWorkshop](https://github.com/rpi-foci/QuantumChemistryWorkshop)
+   * Click the "Clone" button
+
+Go back to files, you should se a directory "QuantumChemistryWorkshop"
 
 ## Open Class Lab Folder
 
