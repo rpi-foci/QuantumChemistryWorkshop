@@ -104,6 +104,14 @@ On the Jupyter Lab Launcher screen:
    * Select Qiskit 2.4.1
    * Install Environment
 
+This will install a Python environment with Qiskit pre-installed.  Be sure
+to select the environment after opening the notebook.
+
+### The extra packages are still needed this afternoon
+
+This is the second installation cell.  Be sure to run it in your Qiskit 2.4.1 kernel before
+the afternoon session.
+
 ## Configure Qiskit Runtime
 
 We are now ready to do some programming.
