@@ -37,7 +37,7 @@ should say ``Rensselear Polytechnic Institute''.
 
 ## Log on to qBraid using Single Sign-On
 
-[qBraid](https://https://qbraid.com) is a hosted service that provides access to quantum computers.  We will use it
+[qBraid](https://qbraid.com) is a hosted service that provides access to quantum computers.  We will use it
 to access RPI's Quantum System One.
 
 **You do not need to create a separate qBraid account.**
@@ -45,7 +45,7 @@ to access RPI's Quantum System One.
 As a part of RPI's Quantum Computer Club's Quantum Computing Hackathon, qBraid worked with RPI to integrate with
 our Single Sign-On.
 
-   * From [https://https://qbraid.com](https://https://qbraid.com) click the "Log in" button on the upper right.
+   * From [https://qbraid.com](https://qbraid.com) click the "Log in" button on the upper right.
    * Click the "Sign in with your institution" drop-down menu, and select RPI
    * You should see the familiar Single Sign-On Page.  Sign On.
 
